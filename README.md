@@ -1,4 +1,4 @@
-# FiveM-Spam-Cmd
-+ Screenshot-Basic Exploit
+# Screenshot-Basic Exploit
+
 
 > python fivem.py IP
